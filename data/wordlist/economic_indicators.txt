@@ -1,5 +1,6 @@
 inflasi
 deflasi
+ketimpangan
 pertumbuhan ekonomi
 tumbuh
 pertumbuhan
