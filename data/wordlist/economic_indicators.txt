@@ -21,6 +21,5 @@ GMV
 harga
 rasio
 tax ratio
-tingkat
 indeks
 gdp
