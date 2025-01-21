@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/fadhil/Documents/Vscode/Github/FinanceNewsNER/src/modelling/mlruns/0/d7a3ad9a03124fe582ab20813ca12a50/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7a3ad9a03124fe582ab20813ca12a50
+run_name: ./results
+run_uuid: d7a3ad9a03124fe582ab20813ca12a50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733156904500
+status: 1
+tags: []
+user_id: fadhil
