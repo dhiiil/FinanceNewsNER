@@ -47,7 +47,7 @@ To use this dataset, clone this repository and load the dataset in your desired 
 git clone https://github.com/your-username/FinanceNewsNER.git
 
 # Navigate to the directory
-cd FinanceNewsNER
+cd data/FinanceNewsNER.csv
 ```
 
 ## Future Work
@@ -71,5 +71,5 @@ If you use this dataset in your work, please cite it as follows:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please contact [your-email@example.com].
+For any questions or feedback, please contact [fadhilahhilmi04@gmail.com].
 
