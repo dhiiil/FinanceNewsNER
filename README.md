@@ -30,8 +30,6 @@ The dataset has been benchmarked using five BERT models. Below are the results:
 | **indolem/indobert-base-uncased**   |  0.96   | 0.70     |
 | **LazarusNLP/NusaBERT-large**       |  0.96   | 0.71     |
 
-*Note: Replace X.XX with actual benchmark values.*
-
 ## Dataset Creation Methodology
 The dataset was constructed using a hybrid approach:
 
@@ -44,7 +42,7 @@ To use this dataset, clone this repository and load the dataset in your desired 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/FinanceNewsNER.git
+git clone https://github.com/dhiiil/FinanceNewsNER.git
 
 # Navigate to the directory
 cd data/FinanceNewsNER.csv
